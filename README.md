@@ -27,5 +27,3 @@ Welcome to my portfolio! All of my projects are focused on deep learning researc
 - **Datasets:** MNIST, Moons
 - **Description:** Implemented and trained a fully connected perceptron network to solve classification tasks on the MNIST dataset and a synthetic "Moons" dataset.
 - **Notebook:** [NN.ipynb](./dl-projects/NN.ipynb)
-
-![Autoencoders Visualization](./images/generated_faces.png)
