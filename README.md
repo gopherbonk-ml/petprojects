@@ -1,4 +1,4 @@
-# [Portfolio](https://drive.google.com/file/d/1mjgr7WVyKslPN-14JuSHZNESzi63Mfmo/view): Deep Learning Projects
+# Portfolio: Deep Learning Projects
 
 ## Welcome!
 
